@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: HarryPotterSpells
+  m_EditorClassIdentifier: 
+  m_GroupName: HarryPotterSpells
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3858b1b7c83802940aa47c3ba336c993
+  m_SerializeEntries:
+  - m_GUID: 239b52d9b9e79d64c91af077324288ea
+    m_Address: apoz123Wand.ElderWand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 4dba0c1e12264ce4386bbf1f55026268
+    m_Address: apoz123Wand.HarryPotterWand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 08531123d2c6a2e4f946bd5ee80a0f39
+    m_Address: apoz123Wand.LuciusWand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 273c79b01faa90a4b9930e8d9e6648b5
+    m_Address: apoz123Wand.MalfoyWand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 93c0ee2e045f511408f954246a2b4f5f
+    m_Address: apoz123Wand.SiriusWand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 86d538a0bce32654799cbd24d397653a
+    m_Address: apoz123Wand.VoldemortWand
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 393dea4630889224993db35348043199
+    m_Address: apoz123Wand.ElderWand.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 3cfbee4f42f56f8448bc62a02baf3e7e
+    m_Address: apoz123Wand.HarryPotterWand.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 6cd64bd08684d0c41ad69993a5cb1d10
+    m_Address: apoz123Wand.LuciusWand.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: d5403704ff028da4e8c7326dcdfb47fa
+    m_Address: apoz123Wand.MalfoyWand.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 23a087233b59ee942ac9f1639591e301
+    m_Address: apoz123Wand.SiriusWand.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 0baccef870c20ab44a58c5984260336c
+    m_Address: apoz123Wand.SpellObject.Expelliarmus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 64ab48e9305b52648af1973b79ddd8d0
+    m_Address: apoz123Wand.SpellObject.Levicorpus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: adbda80a623287847af07585b5e4893c
+    m_Address: apoz123Wand.SpellObject.Lumos
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 1978ab613ad28464cbb9468a29149fcf
+    m_Address: apoz123Wand.SpellObject.PetrificusTotalus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 31a55e6d241f4e84ea4b68b9c3f38f44
+    m_Address: apoz123Wand.SpellObject.Protego
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: f2ac7117f33dab64a92078e8f8516690
+    m_Address: apoz123Wand.SpellObject.Stupefy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 40c5bbe17781193428cfc02e4da92f18
+    m_Address: apoz123Wand.SpellObject.Flipendo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 9a0db98db31c0fc4a93131eccb2a4618
+    m_Address: apoz123Wand.SpellObject.Morsmordre
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: e7a13f9eb3ab5f34881e4cf65608a726
+    m_Address: apoz123Wand.SpellEffect.Impedimenta
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: b43993e4494aaa5449b9798af42e15fc
+    m_Address: apoz123Wand.SoundEffect.Impedimenta
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 305609ca59ca95b468e7de4cdc0c05d8
+    m_Address: apoz123Wand.Dances.Animation1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: fc6ff888502917f478cfa93515e6a3d3
+    m_Address: apoz123Wand.Dances.Animation2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: cb8e6ee00e010ce428cf5df997ba12cc
+    m_Address: apoz123Wand.Dances.Animation3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 40fe4770c8b4652458583e0b79ab2cc8
+    m_Address: apoz123Wand.Dances.Animation4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 18811d747d568f84487711de45cee3fc
+    m_Address: apoz123Wand.Dances.Animation5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 6d30e35678269d54da3de8ae9e0e4a8c
+    m_Address: apoz123Wand.Dances.Animation6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 1081bfe372348e246b97f8b84f076f7c
+    m_Address: apoz123Wand.SpellEffect.Sparks.Stupefy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: d24827cbe6dd3d54488f327523e712ae
+    m_Address: apoz123Wand.SpellEffect.Sparks.Expelliarmus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: ff70f3d8ad7d82a4581556f55893a5aa
+    m_Address: apoz123Wand.SpellEffect.Sparks.AvadaKedavra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 16e6e88bc67ab5f418904636a84838a1
+    m_Address: apoz123Wand.SpellEffect.Sparks.PetrificusTotalus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: a0b9b46bbe0cff140a2f64a25782d46a
+    m_Address: apoz123Wand.SpellEffect.Sparks.Levicorpus
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 0ab90cfe1a715324ebc65e6d14816ccb
+    m_Address: apoz123Wand.SpellEffect.Sparks.Tarantallegra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: d091bf15d0c41fd45a1201dbaf24d28e
+    m_Address: apoz123Wand.SpellEffect.Sparks.Flipendo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 8a0063f179bf2b7428d37650a2297980
+    m_Address: apoz123Wand.SpellEffect.Sparks.Levioso
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 55cdfaaf571ed864ab9291f1f6361774
+    m_Address: apoz123Wand.SpellObject.AvadaKedavra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 1dc2711338f698e4099298b94d765c20
+    m_Address: apoz123Wand.SpellEffect.Evanesco.Mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: e11af7ab4088dc949a576c8f640d4480
+    m_Address: apoz123Wand.SpellObject.TheDarkMark
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 520141f72d37a8e4abea03ec0c76828e
+    m_Address: apoz123Wand.Sectumsempra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: e94d951d8fe7c08449a0e5b5fba8d397
+    m_Address: apoz123Wand.SpellObject.Levioso
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 8198a3473fa1eef49a308f7438695d32
+    m_Address: apoz123Wand.SpellObject.Tarantellegra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b14c4d9d8b63f3247be008fe8b53d3ae, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 432a187886b7cc14982686cb064efbfd, type: 2}
+    - {fileID: 11400000, guid: 6fc9135aa69811544aeb5a77d048bfc7, type: 2}

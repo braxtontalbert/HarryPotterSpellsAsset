@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Patronus
+  m_Shader: {fileID: -6465566751694194690, guid: 7bfaf1a7484e1024f827e6718134b112,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_0fa58a2173e940c0862e746115da8d87: 0.73
+    - Vector1_1ed9fdb3c96c44cda0e25133b2fa2f6a: 14.9
+    - Vector1_22ad484cac93436a8ddbe6223ae3e231: 0
+    - Vector1_5080ee707fd045f28c8c03ec606c80c8: 2.01
+    - Vector1_86d021e114c5433184ed33c27741932d: 3
+    m_Colors:
+    - Color_15f2ca910d7643c3ad7f9b03009b6693: {r: 0.4056604, g: 0.38843897, b: 0.38843897,
+        a: 1}
+  m_BuildTextureStacks: []
