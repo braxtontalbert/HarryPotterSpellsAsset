@@ -82,7 +82,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
-  - m_GUID: adbda80a623287847af07585b5e4893c
+  - m_GUID: dfb4422d366b7484b95a38295cd4288c
     m_Address: apoz123Wand.SpellObject.Lumos
     m_ReadOnly: 0
     m_SerializedLabels:
@@ -192,8 +192,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
-  - m_GUID: 55cdfaaf571ed864ab9291f1f6361774
-    m_Address: apoz123Wand.SpellObject.AvadaKedavra
+  - m_GUID: 105c5114392425a48881c6982fb86ce9
+    m_Address: apoz123Wand.LuciusStaff
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
@@ -219,6 +219,21 @@ MonoBehaviour:
     - Windows
   - m_GUID: 8198a3473fa1eef49a308f7438695d32
     m_Address: apoz123Wand.SpellObject.Tarantellegra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: aaac4947fde76bd47a262e99eab07ec7
+    m_Address: apoz123Wand.SpellObject.AvadaKedavra
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: dfdca070779382b4191868de3d2ec9e8
+    m_Address: apoz123Wand.LuciusStaff.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 8fc54a5a6128dbe418dc29b9705a782e
+    m_Address: apoz123Wand.SpellEffect.BubbleHead
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows

@@ -166,6 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ae7335b74c780247b479af08f26b062, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  closeUpPreview: 0
   size: 1
   iconResolution: 512
   tempLayer: 2
@@ -281,3 +282,5 @@ MonoBehaviour:
   customInertiaTensor: 0
   customInertiaTensorCollider: {fileID: 0}
   customReferences: []
+  forceThrown: 0
+  forceMeshLayer: -1
